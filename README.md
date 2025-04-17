@@ -71,7 +71,17 @@ The **AtliQ EV Motors - Power BI Dashboard** showcases the power of data visuali
 
 With India’s shift toward electric mobility gaining momentum, tools like this are critical for business growth, policy planning, and environmental sustainability. This project demonstrates how data analytics can lead the charge in powering a **greener tomorrow**.
 
----
+# Data Model
+![Screenshot 2025-04-17 165817](https://github.com/user-attachments/assets/af922665-f088-4ffe-bb23-08a882c6816f)
+
+# Dashboard
+![AtliQ EV Motors_page-0001](https://github.com/user-attachments/assets/565072d9-e0b4-4f94-a9ec-276473e612c1)
+![AtliQ EV Motors_page-0002](https://github.com/user-attachments/assets/e5209657-c196-438c-abd1-0fc4272bdb73)
+![AtliQ EV Motors_page-0003](https://github.com/user-attachments/assets/e8316fe2-837b-48cd-bb29-f4fe16076ba0)
+
+
+
+
 
 
 
