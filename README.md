@@ -73,10 +73,5 @@ With India’s shift toward electric mobility gaining momentum, tools like this 
 
 ---
 
-## 🔗 Connect
-Feel free to explore the project and reach out for collaboration or feedback!
 
-**Author**: Chandan Chatterjee  
-**GitHub**: [github.com/Chatterjee18](https://github.com/Chatterjee18)  
-**LinkedIn**: [linkedin.com/in/chandan-chatterjee-8437401b4](https://www.linkedin.com/in/chandan-chatterjee-8437401b4)
 
